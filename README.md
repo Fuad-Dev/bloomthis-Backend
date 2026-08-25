@@ -32,9 +32,11 @@ git add transaction_revenue.py
 git commit -m "Add completed transaction revenue calculation"
 git add query.sql
 git commit -m "Add SQL query for qualifying users"
+git remote add origin https://github.com/Fuad-Dev/bloomthis-software-developer-assessment.git
+git push -u origin feature/assessment-answers
 ```
 
-The repository will be pushed to a public GitHub repository as part of the submission.
+The repository is hosted in a public GitHub repository as part of the submission.
 
 ## Files
 
