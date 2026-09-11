@@ -1,10 +1,9 @@
-# Software Developer Intern Take-Home Assessment
+# Backend
 
 ## Overview
 
-This repository contains my submission for the Software Developer Intern take-home assessment.
 
-The assessment covers:
+The Task covers:
 
 * Basic coding and data aggregation
 * SQL relational queries
